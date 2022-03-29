@@ -1,7 +1,7 @@
 {
   "name": "corso-react-stepper",
   "version": "1.0.0",
-  "description": "",
+  "description": "Corso interrativi",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
